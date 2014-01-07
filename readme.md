@@ -15,4 +15,9 @@ The LDD-generated instructions for building the tile are also included, although
 7-stud version
 --------------
 
-The <code>7_complete</code> files are for a 7-stud version of the tiles with less detail and no interlocking. The files include all of the tiles in the base game, along with the river expansion, as designed by FredWallace.
+The `7x7` files are for a 7-stud version of the tiles with less detail and no interlocking. The files include all of the tiles in the base game, along with the river expansion, as designed by FredWallace.
+
+5-stud version
+--------------
+
+New as of 2014: The 5-stud version! It's in the `5x5` folder.
